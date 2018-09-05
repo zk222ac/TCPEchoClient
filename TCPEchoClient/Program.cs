@@ -10,6 +10,8 @@ namespace TCPEchoClient
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("I am the connector ");
+            Console.WriteLine("I am the connector ");
         }
     }
 }
