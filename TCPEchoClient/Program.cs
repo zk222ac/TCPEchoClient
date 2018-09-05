@@ -12,6 +12,7 @@ namespace TCPEchoClient
         {
             Console.WriteLine("I am the connector ");
             Console.WriteLine("I am the connector ");
+            Console.WriteLine("I am the connector ");
         }
     }
 }
